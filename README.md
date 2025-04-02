@@ -23,9 +23,7 @@ Welcome to **Bankist Main** – a sleek and modern online banking platform desig
 
 ---
 
-## 📸 Screenshots  
 
-🔹 *Showcasing the sleek design and intuitive UI.* *(Add images here)*  
 
 ---
 
@@ -38,13 +36,12 @@ Follow these steps to set up and run the project:
 ```bash
 git clone https://github.com/RandomMoaz/bankist-main.git
 
-### 2️⃣ Navigate to the Project Folder
-
-```bash
+2️⃣ Navigate to the Project Folder  
 
 cd bankist-main
 
-### 3️⃣ Open in Browser
+
+ 3️⃣ Open in Browser
 Simply open index.html in your preferred web browser. 🌍
 
 🤝 Acknowledgments
